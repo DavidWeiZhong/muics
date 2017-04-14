@@ -54,7 +54,7 @@
     <string name="textview_title_lock">Lock it</string>
     <string name="textview_click_before">Unlock it to open the door of the new world !</string>
     <string name="textview_click_after">Go to : https://github.com/Bilibili/MagicaSakura</string>
-
+    <string name="nihao">你好</string>
 
 
 </resources>
